@@ -1,0 +1,12 @@
+# Site settings
+title: Finhackat
+email: help@finhackat.se
+description: > # this means to ignore newlines until "baseurl:"
+  Finhackat är ett ställe för designers samt utvecklare att träffas och utbyta
+  kunskap via mingelträffar samt diverse evenemang.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.finhackat.se" # the base hostname & protocol for your site
+github_username:  finhackat
+
+# Build settings
+markdown: kramdown
