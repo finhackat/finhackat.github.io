@@ -3,7 +3,7 @@
  */
  .side {
     position: fixed;
-    bottom: 10%;
+    bottom: 20%;
     top: 0;
     left: 0;
     right: 80%;
@@ -12,9 +12,14 @@
     padding: 2%;
  }
 
+ .site-title {
+    display: block;
+    margin-bottom: 2em;
+ }
+
  .content {
     position: fixed;
-    bottom: 10%;
+    bottom: 20%;
     top: 0;
     left: 22%;
     right: 0;
@@ -25,7 +30,7 @@
  .footer {
     position: fixed;
     bottom: 0;
-    top: 92%;
+    top: 82%;
     left: 0;
     right: 0;
     background: #FAFAFA;
